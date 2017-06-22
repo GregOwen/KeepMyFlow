@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Stack KeepMyFlow",
+  "name": "KeepMyFlow",
   "description": "This extension removes the distracting Hot Network Questions from Stack Exchange sites",
   "version": "1.0",
 

@@ -1,10 +1,10 @@
 # KeepMyFlow
 
-A Chrome Extension that removes the distracting Hot Network Questions from Stack Exchange.
+A Chrome Extension that removes the distracting Hot Network Questions from Stack Overflow and other Stack Exchange sites.
 
-I found that I kept getting my flow interrupted by the tempting yet ultimately useless "Hot Network Questions" that Stack Exchange sites put up next to the answers section. So that I could keep focused on what I was actually trying to accomplish rather than getting nerdsniped by an interesting-looking but unrelated question, I created this Chrome Extension to simply remove that div from all Stack Exchange sites.
+I found that I kept getting my flow interrupted by the tempting yet ultimately useless "Hot Network Questions" that Stack Overflow puts up next to the answers section. So that I could keep focused on what I was actually trying to accomplish rather than getting nerdsniped by an interesting-looking but unrelated question, I created this Chrome Extension to simply remove that div from all Stack Exchange sites.
 
-Really, it's that simple: just 2 lines of JavaScript.
+Really, it's that simple: just 2 lines of JavaScript. Check out main.js.
 
 # Installation
 
