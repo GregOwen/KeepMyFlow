@@ -16,7 +16,7 @@
 	"*://superuser.com/*",
 	"*://*.stackexchange.com/*"
       ],
-      "js": ["main.js"],
+      "js": ["main.js"]
     }
-  ],
+  ]
 }
